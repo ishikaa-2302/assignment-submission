@@ -54,7 +54,7 @@
       <h1>Dealing with Imposter Syndrome</h1>
       <h5>Assignment Submission Form</h5>
       <!--<p class="topic">Imposter Syndrome</p>-->
-      <h6>Deadline: <strong style="background-color:yellow;padding:2px;">21st September</strong></h6>
+      <h6>Deadline: <strong style="background-color:yellow;padding:2px;">27th September</strong></h6>
       <h6>Detailed Explanation</h6>
       <ul>
         <li>Write an essay on Imposter Sydrome</li>
