@@ -1,10 +1,8 @@
 <?php
-  $dbhost= "sql6.freesqldatabase.com";
-  $dbuser= "sql6438989";
-  //$dbuser = "ishikaa_2302";
-  //$dbpass="Ishikagupta12345";
-  $dbpass= "vStTl43c4g";
-  $dbname="sql6438989";
+   $dbhost= "sql307.epizy.com";
+  $dbuser= "epiz_29866051";
+  $dbpass= "DzlRQiObXKDKi4r";
+  $dbname="epiz_29866051_thrift";
   $port=3306;
 
   if(!$con= mysqli_connect($dbhost,$dbuser,$dbpass,$dbname,$port)){
